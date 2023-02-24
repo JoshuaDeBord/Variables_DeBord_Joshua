@@ -13,6 +13,7 @@ namespace Variables_DeBord_Joshua
             applePie = 9; //this tells the system that the floating point "applePie" is 9.
             favoriteNumber = 7; //the explains that the creator's favorite number is 7. Now when ever the varaible is used in a WriteLine, it will show as 7.
             const double finalGrade = 69420; //this is a constant floating point. It is named "finalGrade". Because it is constant, it will always be 69420.
+           
             Console.WriteLine($"My favorite number is {favoriteNumber}."); //This makes the Console write information to the user.
             Console.WriteLine($"{isJumping}"); //This makes the Console write information to the user.
             Console.WriteLine($"{isRunning}"); //This makes the Console write information to the user.
